@@ -8,7 +8,8 @@
   </head>
     
   <body>
-    <header> 
+    <header>
+      <h1>[insertar imagen]</h1>
     </header>
         
     <div>
@@ -18,7 +19,7 @@
       <!-- Con el atributo onclick el butón sabrá que función de js ejecutar cuando lo presionemos -->
     </div>
     
-    <div id="minombre">
+    <div id="divNombre">
       <!-- Llamamos a la función Saludar() para que inserte nuestro nombre en el div-->
       <script> Saludar(); </script> 
     </div>
